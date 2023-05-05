@@ -1,3 +1,4 @@
+FUNCIONES DEL TIC TAC TOE
 Square : es una función que representa las casillas en el tablero del juego. Toma dos valores: el valor que contiene el cuadrado (ya sea "X" o "O") y la función que se ejecuta cuando se da click en la casilla. Retorna un buton
 
 Board: es una función que representa el tablero del juego. Toma tres valores: el valor booleano que indica si es el turno del jugador "X" o del jugador "O", un array que representa el estado actual de los cuadrados en el tablero y la función que se ejecuta cuando se da click en una casilla.
